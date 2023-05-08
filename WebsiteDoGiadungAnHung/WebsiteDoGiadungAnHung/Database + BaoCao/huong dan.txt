@@ -1,0 +1,4 @@
+tài khoản	mật khẩu 	quyên
+admin1		1		admin
+nv1		1		employee
+hieu		1		user
